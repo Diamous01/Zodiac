@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7adaff0.css",
+    "main.js": "/static/js/main.59e3244d.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
+    "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/NUIT-21.jpg": "/static/media/NUIT-21.275ef85b0aa580611410.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/NUIT-23.jpg": "/static/media/NUIT-23.64ed2e772b96ef83010a.jpg",
+    "static/media/NUIT-17.jpg": "/static/media/NUIT-17.d841393dc0aed38506c8.jpg",
+    "static/media/NUIT.jpg": "/static/media/NUIT.53ed55c0963fd6af4888.jpg",
+    "static/media/NUIT-5.jpg": "/static/media/NUIT-5.85bfc4fabe8e31839bcc.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.ecb733524e878406c281.webp",
+    "static/media/bannerImgOne.webp": "/static/media/bannerImgOne.cc70f00d1512cb1f97f6.webp",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/saleImgOne.webp": "/static/media/saleImgOne.5fd9a91421b8b3d52f04.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.7f55d28e41e547163b6c.webp",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/01.png": "/static/media/01.8768a1059e3c7c85fec7.png",
+    "static/media/02.png": "/static/media/02.a911ba281387d3a674c3.png",
+    "index.html": "/index.html",
+    "main.f7adaff0.css.map": "/static/css/main.f7adaff0.css.map",
+    "main.59e3244d.js.map": "/static/js/main.59e3244d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7adaff0.css",
+    "static/js/main.59e3244d.js"
+  ]
+}
